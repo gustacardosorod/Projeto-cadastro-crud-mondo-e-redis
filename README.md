@@ -7,17 +7,6 @@ Gustavo Cardoso desenvolveu um sistema de cadastro simples em Java que realiza o
 
 A integração com o Redis permite que consultas sejam cacheadas em memória após a primeira execução, melhorando significativamente o desempenho ao evitar acessos repetitivos ao MongoDB.
 
-As principais entidades gerenciadas pelo sistema incluem:
-
-Cursos
-
-Turmas
-
-Períodos
-
-Alunos
-
-Desafios
 
 ⚙️ Funcionalidades
 Inserção, atualização e exclusão de documentos em diferentes coleções do MongoDB.
